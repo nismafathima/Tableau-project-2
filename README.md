@@ -4,7 +4,8 @@
 
 A **Tableau project** that provides interactive dashboards and insights into **Hyundai car sales performance**. The goal is to help stakeholders monitor sales KPIs, identify trends, and make data-driven decisions to improve market performance.
 
----
+---<img width="1869" height="782" alt="Screenshot 2026-01-16 221813" src="https://github.com/user-attachments/assets/1027dd35-7fa0-449a-b938-394bb93aa94d" />
+
 
 ## ✨ Features
 - 📊 **Sales Overview** – Track total Hyundai car sales across regions and time periods.  
